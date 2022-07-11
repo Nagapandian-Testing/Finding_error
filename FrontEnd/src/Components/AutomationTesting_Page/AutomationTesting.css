@@ -1,0 +1,22 @@
+
+#AT_ul {
+
+    margin-left: -25px;
+    columns: 3;
+    line-height: 35px;
+    list-style: none;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+    font-size: 15px !important;
+}
+
+@media only screen and (max-width: 600px) {
+
+    #AT_ul {
+        columns: 2;
+        line-height: 25px;
+        -webkit-columns: 2;
+        -moz-columns: 2;
+        font-size: 12px !important;
+    }
+}

@@ -1,0 +1,129 @@
+.achive-main {
+    background-color: rgb(255, 255, 255);
+
+    color: white;
+
+}
+
+#lapp {
+    font-size: 50px !important;
+
+}
+
+.tex-name {
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#col-34 {
+    margin-top: 50px;
+
+    border-radius: 50%;
+
+
+    box-shadow: rgb(0, 0, 0) 0px 2px 1px, rgb(52, 198, 255) 0px 4px 2px, rgb(0, 183, 255) 0px 8px 4px, rgba(0, 0, 0, 0.678) 0px 16px 8px, rgba(0, 0, 0, 0.644) 0px 32px 16px;
+}
+
+#AC_Client {
+    width: 250px;
+    margin-left: 80px;
+}
+
+#achieve {
+
+    margin-bottom: 50px;
+    padding-top: 20px;
+    font-size: 30px !important;
+    color: black;
+}
+
+#ac_list {
+    margin-top: 20px;
+
+    color: black;
+
+}
+
+.label {
+    margin-top: 20px !important;
+    color: white;
+    padding: 8px;
+    font-family: Arial;
+}
+
+.success {
+    background-color: #ff4040;
+}
+
+/* Green */
+.info {
+    background-color: #2196F3;
+}
+
+/* Blue */
+.warning {
+    background-color: #ff9800;
+}
+
+/* Orange */
+.danger {
+    background-color: #f44336;
+}
+
+/* Red */
+.other {
+    background-color: #e7e7e7;
+    color: black;
+}
+
+#col-12 {
+    margin-top: 50px;
+
+
+
+    border-radius: 50%;
+
+    box-shadow: rgb(0, 0, 0) 0px 2px 1px, rgb(52, 198, 255) 0px 4px 2px, rgb(52, 198, 255) 0px 8px 4px, rgba(0, 0, 0, 0.678) 0px 16px 8px, rgba(0, 0, 0, 0.644) 0px 32px 16px;
+}
+
+#count-no {
+    font-family: Times New Roman, serif !important;
+    font-size: 30px !important;
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    #hrr2 {
+        border: 2px groove;
+
+        width: 100px;
+        margin-left: 63px;
+        margin-top: 0px;
+    }
+
+
+
+    .tex-name {
+        font-size: 18px;
+        font-weight: 600;
+        color: rgb(255, 255, 255);
+
+        font-family: Verdana, Geneva, Tahoma, sans-serif
+    }
+
+    #lapp {
+        font-size: 30px !important;
+
+    }
+
+    #col-34 {
+        margin-top: 30px;
+    }
+
+    #achieve {
+        font-family: Times New Roman, serif !important;
+        font-size: 28px;
+    }
+}

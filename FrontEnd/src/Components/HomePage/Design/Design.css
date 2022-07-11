@@ -1,0 +1,21 @@
+#design1 {
+    background-color: rgb(245, 247, 255);
+    margin-top: -80px;
+    width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    #design1 {
+        background-color: rgb(245, 247, 255);
+        margin-top: 0px;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1080px) {
+    #design1 {
+        background-color: rgb(245, 247, 255);
+        margin-top: 0px;
+        width: 100%;
+    }
+}

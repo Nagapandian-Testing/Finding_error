@@ -1,0 +1,19 @@
+#hei_banner{
+    margin-top: 50px;
+   
+}
+#banner_styles{
+
+}
+.owl{
+}
+@media only screen and (max-width: 600px) {
+    #hei_banner{
+        margin-top: 45px;
+    }
+  #banner_styles{
+    max-width: 1800px;
+    height: 250px;
+    
+  }
+}

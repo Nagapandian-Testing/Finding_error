@@ -1,0 +1,13 @@
+.con-full {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 280px;
+}
+
+#bg_img_idea {
+    padding: 100px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}

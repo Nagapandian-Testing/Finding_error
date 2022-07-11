@@ -1,0 +1,109 @@
+#job_top1 {
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#job_headding {
+    font-size: 22px !important;
+    font-weight: bold;
+    padding-left: 20px;
+
+}
+
+#job_headding1 {
+    font-size: 22px !important;
+    font-weight: bold;
+    color: rgb(36, 36, 36);
+
+}
+
+#job_headding2 {
+    color: orange;
+}
+
+#jobbanner {
+    background-size: 1700px 500px !important;
+    background-size: cover;
+    background-position: center center;
+    height: 700px;
+}
+
+
+#extensiontype {
+    font-size: 14px !important;
+    margin-top: -20px
+}
+
+#job_formmImg {
+    margin-top: -100px;
+    margin-left: -160px;
+}
+
+#job_form_des {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: rgba(255, 255, 255, 0.651);
+    border-radius: 2px;
+    width: 600px;
+    padding: 15px 15px;
+    margin-left: 600px;
+    margin-bottom: 100px;
+    margin-top: 125px;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+
+@media only screen and (max-width: 600px) {
+
+    #job_top1 {
+        margin-top: 0px;
+        height: 700px;
+    }
+
+    #jobbanner {
+
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    #job_form_des {
+        box-shadow: rgba(2, 2, 2, 0.24) 0px 3px 8px;
+        background-color: rgba(255, 255, 255, 0.726);
+        width: 100%;
+        padding: 15px 15px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #job_form_des {
+        box-shadow: rgba(2, 2, 2, 0.24) 0px 3px 8px;
+        background-color: rgba(255, 255, 255, 0.548);
+        width: 50%;
+        padding: 15px 15px;
+        margin-left: 300px;
+        margin-bottom: 0px;
+        margin-top: 150px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #jobbanner {
+
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+
+    }
+}
+
+@media (min-width: 820px) and (max-width: 1180px) {
+  
+
+}

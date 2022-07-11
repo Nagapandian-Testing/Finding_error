@@ -1,0 +1,37 @@
+/* #scroll_color{
+   
+    color: rgb(255, 255, 255);
+ 
+   
+} */
+
+/* .topp {
+    --offset: -50px; 
+    
+    position: sticky;
+    bottom: 20px;      
+    margin-right:10px; 
+    place-self: end;
+    margin-top: calc(0vh +var(--offset));
+   
+    padding: 10px;
+
+    color: rgb(255, 255, 255);
+    background: orange;
+    border-radius: 20px;
+    float: right;
+    white-space: nowrap;
+  }
+  .topp:hover{
+    color: rgb(255, 255, 255);
+    background: orange;
+  } */
+  
+ 
+  
+  /* remove the below if you don't want smooth scrolling */
+  /* html,
+  body {
+    scroll-behavior: smooth;
+  } */
+

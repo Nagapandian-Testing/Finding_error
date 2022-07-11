@@ -1,0 +1,39 @@
+#footer_service {
+  background-color: rgb(37, 37, 37) !important;
+  padding: 20px;
+}
+
+#img-footer1 {
+  width: 50px;
+  padding: 50px !important;
+}
+#fo_linkAll1{
+  margin-top: 20px !important;
+  font-size: 12px !important;
+}
+#icon_color:hover {
+  color: orange;
+}
+
+#img-footer2{
+  width: 50%;
+}
+
+#fo_link {
+  text-decoration: none;
+  color: white;
+}
+
+#fo_link:hover {
+  color: orange;
+}
+
+.fab {
+  color: white;
+}
+
+#copywrite {
+  font-size: 12px !important;
+  color: #9c9c9c;
+  margin-bottom: -20px!important;
+}

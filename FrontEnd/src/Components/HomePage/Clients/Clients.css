@@ -1,0 +1,45 @@
+#client {
+    height: 170px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+
+#img11 {
+    padding: 10px;
+    width: 150px;
+}
+
+#img12 {
+    padding: 10px;
+    width: 120px;
+}
+
+#img111 {
+    width: 120px;
+    margin-top: -20px;
+}
+
+
+#p-clients {
+    letter-spacing: 2px !important;
+    font-size: 30px !important;
+    background-color: rgb(255, 255, 255);
+    margin-top: 0px;
+    padding: 12px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    #client {
+        height: 320px;
+        background-color: rgb(255, 255, 255);
+        margin: 0px;
+    }
+
+    #img11 {
+        margin-top: 20px;
+        padding: 0px;
+        width: 150px;
+    }
+
+}

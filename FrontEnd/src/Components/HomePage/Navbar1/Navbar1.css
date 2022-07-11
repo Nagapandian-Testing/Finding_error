@@ -1,0 +1,157 @@
+
+
+
+
+
+.navbar-brand img {
+    width: 150px;
+    margin-left: 20%;
+}
+
+.navbar {
+    padding: 0 20px;
+    background-color: #121f5e !important;
+}
+
+.navbar-nav {
+    margin-right: 0%;
+    overflow: hidden;
+}
+
+.nav-item {
+    transform: rotate(-50deg);
+    content: " ";
+    overflow: hidden;
+}
+
+.nav-item:hover {
+    
+    
+
+    overflow: hidden;
+    transform: rotate(-50deg);
+    background-color: orange;
+
+}
+
+ .nav-item a {
+
+
+    
+    padding: 15px 40px !important;
+    color: rgb(255, 255, 255) !important;
+    transform: rotate(50deg) !important;
+
+} 
+.navbar-toggler{
+    color: rgba(30, 16, 95, 0) !important;
+}
+
+
+.nav-item a:hover {
+
+    /* transform: rotate(0deg) !important; */
+
+
+    color: #ffffff !important;
+    overflow: hidden;
+
+
+} 
+#icon_color1{
+    color: orange !important;
+    font-size: 20px !important;
+}
+
+.navbar-toggler>.close {
+display:inline;
+}
+.navbar-toggler.collapsed>.close, .navbar-toggler:not(.collapsed)>.toggle_change{
+display:none;
+}
+@media only screen and (max-width: 600px) {
+    .nav-item:hover {
+    
+    
+        transform: rotate(0deg);
+       /* color: orange !important; */
+       padding: 0px !important;
+       background-color: #121f5e00;
+     
+    
+    }
+    .nav-item {
+        transform: rotate(0deg);
+       
+    }
+    .nav-item a {
+
+
+    
+        padding: 15px 40px !important;
+        color: rgb(255, 255, 255) !important;
+        transform: rotate(0deg) !important;
+    
+    } 
+    .nav-item a:hover {
+
+
+    
+        padding: 15px 40px !important;
+        color: orange !important;
+        transform: rotate(0deg) !important;
+    
+    } 
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+
+
+    .nav-item:hover {
+    
+    
+        transform: rotate(0deg);
+        overflow: hidden;
+       
+        background-color: rgb(255, 255, 255);
+    
+    }
+    .nav-item {
+        transform: rotate(0deg);
+        content: " ";
+        overflow: hidden;
+    }
+    .nav-item a {
+
+
+    
+        padding: 15px 40px !important;
+        color: rgb(255, 255, 255) !important;
+        transform: rotate(0deg) !important;
+    
+    } 
+}
+@media (min-width: 820px) and (max-width: 1180px) {
+
+    .nav-item:hover {
+    
+    
+        transform: rotate(0deg);
+        overflow: hidden;
+       
+        background-color: rgb(255, 255, 255);
+    
+    }
+    .nav-item {
+        transform: rotate(0deg);
+        content: " ";
+        overflow: hidden;
+    }
+    .nav-item a {
+
+        padding: 15px 40px !important;
+        color: rgb(255, 255, 255) !important;
+        transform: rotate(0deg) !important;
+    
+    } 
+}

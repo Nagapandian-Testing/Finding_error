@@ -1,0 +1,49 @@
+#contact_top {
+  margin-top: 80px;
+
+}
+
+#contact_imgg {
+  width: 100%;
+  height: auto;
+  margin-left: 50px;
+
+}
+
+#para_ban {
+  margin-top: 80px;
+}
+
+#contact_Head {
+  margin-left: 0px;
+
+  color: rgb(90, 90, 90);
+
+  font-size: 40px !important;
+  margin-top: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+
+  #para_ban {
+    margin-top: 20px;
+  }
+
+  #contact_imgg {
+
+    margin-left: -10px;
+    max-height: 100%;
+    max-width: 100%;
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #contact_imgg {
+    width: 450px;
+    margin-left: -80px !important;
+    height: auto;
+    margin-left: -100px;
+
+  }
+}

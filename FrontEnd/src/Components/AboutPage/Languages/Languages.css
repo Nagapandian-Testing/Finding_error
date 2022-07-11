@@ -1,0 +1,32 @@
+.sponsor-feature {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 5px;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+
+}
+#lan-img {
+    width: 120px !important;
+}
+#our-tech {
+    margin-top: 50px !important;
+
+    font-size: 30px !important;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    .sponsor-feature {
+
+        margin-left: 10px;
+    }
+
+    #lan-img {
+        width: 70px !important;
+    }
+}
